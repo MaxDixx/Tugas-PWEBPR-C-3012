@@ -42,6 +42,7 @@
         color: #000000;
         text-align: center;
         padding: auto;
+        text-decoration: none;
     }
 
     .tent {
@@ -423,17 +424,18 @@
         .navbar-default {
             color: #000000;
             float: left;
-            display: block;
             font-size: 15px;
             margin-left: 5px;
             padding: 14px 16px; 
             list-style-type: none;
             display: flex;
+            justify-content: center;
         }
         .navbar-default a{
             margin-left: 90px;
             color: #000000;
             text-align: center;
+            text-decoration: none;
             padding: auto;
             margin-top: -30px;
         }
